@@ -1,2 +1,9 @@
 # Healthmate-AI-based-medical-chatbot
-HealthMate is an AI-powered medical chatbot that provides quick healthcare assistance, symptom checking, and lifestyle guidance. It uses NLP and Machine Learning to understand user queries, give safe medical information, and suggest when to consult a doctor.
+git clone https://github.com/Pallab-077/Healthmate-AI-based-medical-chatbot.git
+
+conda create -n Healthmate python=3.13 -y
+
+
+conda active Healthmate
+
+pip install -r requirements.txt
